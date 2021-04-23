@@ -1,0 +1,27 @@
+EER_rocch_pm =       0.0640513077
+far_pm =       0.0772946860
+frr_pm =       0.0869565217
+EER_rocch_zpm =       0.0422535211
+EER_rocch_tpm =       0.0356071964
+EER_rocch_ztpm =       0.0480769231
+
+EER_rocch_pf =       0.1278162214
+far_pf =       0.1346153846
+frr_pf =       0.1346153846
+EER_rocch_zpf =       0.0670405983
+EER_rocch_tpf =       0.0648400272
+EER_rocch_ztpf =       0.0595270454
+
+EER_rocch_wm =       0.0757205667
+far_wm =       0.0869565217
+frr_wm =       0.0869565217
+EER_rocch_zwm =       0.0592546584
+EER_rocch_twm =       0.0572713643
+EER_rocch_ztwm =       0.0604766379
+
+EER_rocch_wf =       0.0603966346
+far_wf =       0.0610859729
+frr_wf =       0.0576923077
+EER_rocch_zwf =       0.0379924953
+EER_rocch_twf =       0.0350043215
+EER_rocch_ztwf =       0.0350000000
